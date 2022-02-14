@@ -10,4 +10,4 @@ Feature: Safaricom Taleo Net Login
 
         Examples:
             | username | password |
-            | michaelobado | Mike1993 |
+            | "yourusername" | "yourpassword" |
