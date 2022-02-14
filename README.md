@@ -1,12 +1,10 @@
-# Safaricomtaleo
-
 # Automation Testing - Safaricom Careers Page
-This is an application for automating tests on Orange HRM Login Page 
+This is an application for automating tests on Safaricom Careers Page 
 
 #### By Michael Obado
 
 ## Description
-The project performs automation tests on the safaricom careers page
+The project performs automation tests on the Safaricom Careers Page
 
 ## Setup/Installation Requirements
 * PyCharm
