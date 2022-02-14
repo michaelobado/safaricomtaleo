@@ -12,6 +12,7 @@ The project performs automation tests on the safaricom careers page
 * PyCharm
 * It is mandatory that you clone the github repository.
 * Run feature file on terminal using: behave featurefilename.feature
+* Make sure to replace the username and password in the feature file with valid credentials
 
 ## Known Bugs
 No bugs have been identified.
